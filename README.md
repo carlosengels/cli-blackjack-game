@@ -7,7 +7,9 @@ This very basic CLI application sets you up against the virtual dealer who will 
 
 What the best you can do against the dealer?
 
-##Instructions
+## Instructions
 If you have python 3 installed in your local machine or you need to do is navigate to where you downloaded this repo to, an run ```pyhon Blackjack.py```
 
 If you do not have python installed check out the [documentation](https://www.python.org/).
+
+Once you have the game launched follow the in-game instructions.
